@@ -38,7 +38,7 @@ public class helloWorldController {
 	}
 
 	@PostMapping("deltagerlist")
-	public void getetter(){
+	public void getetter(){sdf
 		
 	}
 
