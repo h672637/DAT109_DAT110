@@ -17,7 +17,7 @@ public class Rute {
     public void SetNyRute(int nyrute ){
         this.rute=nyrute;
     }
-    public void setTilSlenge(int pos){
+    public void setTilSlenge( ){
         if()
         this.ersleng=pos;
     }
