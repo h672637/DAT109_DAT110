@@ -37,5 +37,10 @@ public class helloWorldController {
 	    return "deltagerliste";
 	}
 
+	@PostMapping("deltagerlist")
+	public void getetter(){
+		
+	}
+
 	
 }
